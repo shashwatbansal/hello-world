@@ -1,7 +1,7 @@
 # hello-world
 Starting out on a new minimal Journey
 
--- about me sublevel heading
+-- about me sublevel heading and redo grammar
 
 Hi everyone market has apparently landed me, a mechanical engineer
 into the world of analytics. I hence plan to  now be well versed from 
